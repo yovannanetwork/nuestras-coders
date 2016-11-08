@@ -1,1 +1,29 @@
 /* Inserta tu código aqui */
+h2{
+    font-size: 25px;
+    
+}
+.bloque{
+    width: 740px;
+    height: 530px;
+    margin: auto;
+    position: relative;
+    display: block;
+}
+.fotos{
+    width: 210px;
+    height: 210px;
+    margin: 10px;
+    position: relative;
+    background: #000000;
+    display: inline-block;
+}
+.fotos:hover{
+    background-color: antiquewhite;
+}
+.nombres{
+    position: relative;
+    left: 85px;
+    bottom: 30px;
+    color: white;
+}
